@@ -1,13 +1,12 @@
 <h1>Josias Montaño</h1>
+
+Computer Engineer specializing in full-stack software development with expertise in .NET, C#, and modern web technologies. With experience ranging from interactive web applications to robust system development, I'm proficient in SQL databases, RESTful APIs, and frameworks like React. Dedicated to development best practices, software testing, and building scalable solutions for complex challenges. Currently expanding my skills in software architecture and enterprise application development.
 <div><img src="https://camo.githubusercontent.com/ad25c4ca31c6c4d7cfa924ac159fd478b7e9e1433d9a18bb7c0c25a9f9173796/68747470733a2f2f6e69727a616b2d73747265616b2d73746174732e76657263656c2e6170702f3f757365723d4a6f736961734d6f6e74616e6f267468656d653d6461726b26686964655f626f726465723d66616c7365" alt="" data-canonical-src="https://nirzak-streak-stats.vercel.app/?user=JosiasMontano&amp;theme=dark&amp;hide_border=false" style="max-width: 100%;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosiasMontano&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
   <div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JosiasMontano&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
 </div>
-#
-Computer Engineer specializing in full-stack software development with expertise in .NET, C#, and modern web technologies. With experience ranging from interactive web applications to robust system development, I'm proficient in SQL databases, RESTful APIs, and frameworks like React. Dedicated to development best practices, software testing, and building scalable solutions for complex challenges. Currently expanding my skills in software architecture and enterprise application development.
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/josiasmontano10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/josias-montaño-vargas-b62731210) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/JosiasMontano) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:josisamu10@gmail.com) 
