@@ -1,4 +1,4 @@
-<h3>Josias Montaño</h3>
+<h1>Josias Montaño</h1>
 <div><img src="https://camo.githubusercontent.com/ad25c4ca31c6c4d7cfa924ac159fd478b7e9e1433d9a18bb7c0c25a9f9173796/68747470733a2f2f6e69727a616b2d73747265616b2d73746174732e76657263656c2e6170702f3f757365723d4a6f736961734d6f6e74616e6f267468656d653d6461726b26686964655f626f726465723d66616c7365" alt="" data-canonical-src="https://nirzak-streak-stats.vercel.app/?user=JosiasMontano&amp;theme=dark&amp;hide_border=false" style="max-width: 100%;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosiasMontano&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
